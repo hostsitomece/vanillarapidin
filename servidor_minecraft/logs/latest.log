@@ -1,0 +1,53 @@
+[01:03:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:03:05] [ServerMain/INFO]: No existing world data, creating new world
+[01:03:06] [ServerMain/INFO]: Loaded 1337 recipes
+[01:03:06] [ServerMain/INFO]: Loaded 1448 advancements
+[01:03:06] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:03:06] [Server thread/INFO]: Loading properties
+[01:03:06] [Server thread/INFO]: Default game type: SURVIVAL
+[01:03:06] [Server thread/INFO]: Generating keypair
+[01:03:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:03:06] [Server thread/INFO]: Using epoll channel type
+[01:03:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:03:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:03:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:03:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:03:07] [Server thread/INFO]: Preparing level "world"
+[01:03:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:03:21] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:23] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:23] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:03:30] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[01:03:30] [Server thread/INFO]: Time elapsed: 9291 ms
+[01:03:30] [Server thread/INFO]: Done (23.912s)! For help, type "help"
+[01:03:30] [Server thread/INFO]: iAmCamiii_ (/127.60.239.121:51129) lost connection: Disconnected
+[01:03:32] [Server thread/INFO]: iAmCamiii_[/127.60.239.121:35667] logged in with entity id 15 at (373.5, 74.0, -16.5)
+[01:03:32] [Server thread/INFO]: iAmCamiii_ joined the game
+[01:04:07] [Server thread/INFO]: Melo_uwu246[/127.125.201.177:58721] logged in with entity id 607 at (378.5, 73.0, -11.5)
+[01:04:07] [Server thread/INFO]: Melo_uwu246 joined the game
+[01:04:27] [Server thread/WARN]: iAmCamiii_ moved too quickly! 4.0975766622947845,0.7539862017387549,9.390361212339265
+[01:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:05:03] [Server thread/INFO]: iAmCamiii_ drowned
+[01:06:11] [Server thread/INFO]: [Not Secure] [Server] ola
+[01:06:29] [Server thread/INFO]: Aaron_1602[/127.173.239.59:49125] logged in with entity id 1583 at (377.5, 73.0, -18.5)
+[01:06:29] [Server thread/INFO]: Aaron_1602 joined the game
+[01:06:39] [Server thread/INFO]: Melo_uwu246 has made the advancement [Stone Age]
+[01:06:43] [Server thread/INFO]: iAmCamiii_ discovered the floor was lava
+[01:08:04] [Server thread/INFO]: Melo_uwu246 has made the advancement [Getting an Upgrade]
+[01:08:47] [Server thread/INFO]: Aaron_1602 has made the advancement [Stone Age]
+[01:09:39] [Server thread/INFO]: Aaron_1602 has made the advancement [Getting an Upgrade]
