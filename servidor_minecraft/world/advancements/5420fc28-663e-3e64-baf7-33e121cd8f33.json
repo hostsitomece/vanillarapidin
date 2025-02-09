@@ -9,10 +9,13 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-09 02:01:46 +0000",
       "minecraft:beach": "2025-02-09 01:04:08 +0000",
+      "minecraft:frozen_river": "2025-02-09 02:47:35 +0000",
       "minecraft:forest": "2025-02-09 01:04:33 +0000",
       "minecraft:taiga": "2025-02-09 01:23:24 +0000",
       "minecraft:river": "2025-02-09 01:15:30 +0000",
       "minecraft:meadow": "2025-02-09 01:17:59 +0000",
+      "minecraft:snowy_plains": "2025-02-09 02:47:54 +0000",
+      "minecraft:snowy_taiga": "2025-02-09 02:47:29 +0000",
       "minecraft:plains": "2025-02-09 01:15:52 +0000"
     },
     "done": false
