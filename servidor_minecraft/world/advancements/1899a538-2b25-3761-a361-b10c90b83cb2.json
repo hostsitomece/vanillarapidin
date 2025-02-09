@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-09 01:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-09 01:46:49 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-09 01:11:00 +0000"
@@ -551,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-09 01:20:36 +0000",
@@ -623,6 +647,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-09 01:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
     },
     "done": true
   },
@@ -726,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-09 01:31:11 +0000"
@@ -824,9 +860,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-09 01:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-02-09 01:49:23 +0000"
     },
     "done": true
   },
