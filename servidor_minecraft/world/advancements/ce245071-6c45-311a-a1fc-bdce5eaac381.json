@@ -624,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 02:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 01:35:26 +0000"
@@ -747,6 +753,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-09 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-09 02:37:15 +0000"
     },
     "done": true
   },
@@ -933,6 +945,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-09 01:46:06 +0000",
+      "minecraft:spider": "2025-02-09 02:39:32 +0000",
       "minecraft:zombie": "2025-02-09 01:41:08 +0000"
     },
     "done": false
@@ -1117,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 02:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-09 02:01:04 +0000"
@@ -1146,6 +1165,7 @@
       "bread": "2025-02-09 01:56:33 +0000",
       "cooked_chicken": "2025-02-09 02:13:08 +0000",
       "rotten_flesh": "2025-02-09 01:48:01 +0000",
+      "cooked_mutton": "2025-02-09 02:39:46 +0000",
       "cooked_beef": "2025-02-09 01:57:29 +0000",
       "beef": "2025-02-09 01:40:17 +0000",
       "porkchop": "2025-02-09 01:40:27 +0000"
@@ -1251,6 +1271,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-02-09 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 02:37:15 +0000"
     },
     "done": true
   },
